@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task</title>
+</head>
+<style>
+    h1 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+</style>
+
+<body bgcolor="black">
+    <center>
+        <h1>Upcoming Events🗓️</h1>
+    </center>
+    <center>
+        <p>Dont miss any of your important events.Here are the important events you have registered for!</p>
+    </center>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id nulla voluptatem quas, est cupiditate nisi mollitia
+        optio, similique tempora quisquam voluptates. Quia nesciunt obcaecati repellendus assumenda aliquid hic aperiam
+        commodi, possimus aliquam nam, delectus quod soluta quidem rerum alias eaque voluptates repudiandae veniam velit
+        ullam eos tenetur? Obcaecati, hic, reiciendis quaerat praesentium cupiditate ea illum aliquam voluptatibus
+        molestias quisquam est repellat harum nesciunt asperiores voluptatem quidem laborum similique nemo iusto aut
+        minima nam. Minima, incidunt?</p>
+    <center><img src="ss.png" alt=""></center>
+    <center>
+        <h2 style="color: white;">Photo Gallery Event</h2>
+    </center>
+    <center>
+        <h3 style="color: white;">Free Entry| Free Food| Pets are not allowed</h3>
+    </center>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores accusantium expedita ipsam rerum, incidunt
+        omnis adipisci, ipsum eaque odio placeat cum provident porro corrupti aperiam harum alias.</p>
+    <center><img src="ss1.png" alt=""></center>
+    <center><a href="#">Fashion Store</a></center>
+    <center>
+        <h3 style="color: white;">Free Entry| Free Food| Pets are not allowed</h3>
+    </center>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores accusantium expedita ipsam rerum, incidunt
+        omnis adipisci, ipsum eaque odio placeat cum provident porro corrupti aperiam harum alias.
+        culpa.</p>
+    <hr>
+    <center>
+        <h2 style="color: white;">Contact</h2>
+    </center>
+    <center>
+        <h3 style="color: white;">+91 9834678921| eventclub@gmail.com</h3>
+    </center>
+    <center>
+        <p>North street, Madurai, 625009</p>
+    </center>
+</body>
+
+</html>
